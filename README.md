@@ -1,4 +1,4 @@
-# SmarTaskAndroidApp
+# SmarTask Android App
 
 SmarTask, Android App project in open source.
 
