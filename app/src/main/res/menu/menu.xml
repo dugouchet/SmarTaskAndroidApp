@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_amis"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/text_amis"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_group"
+        android:enabled="true"
+        android:icon="@drawable/ic_contact_list"
+        android:title="@string/text_group"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_task"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_add_event"
+        android:title="@string/text_tache"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_activity"
+        android:enabled="true"
+        android:icon="@drawable/ic_list_task"
+        android:title="@string/text_activity"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBar">#FFFFFF</color>
+    <color name="colorTextBar">#607D8B</color>
+    <color name="colorSelectedTextBar">#607D8B</color>
+    <color name="coloritemIconTint">#607D8B</color>
+    <color name="name_contact">#999999</color>
+    <color name="adress_contact">#222222</color>
+    <color name="color_name_task">#607D8B</color>
+    <color name="color_resp_task">#999999</color>
+    <color name="color_group_task">#222222</color>
+    <color name="color_toolbar">#607D8B</color>
+    <color name="color_delete">#ffff0000</color>
+</resources>
